@@ -9,7 +9,10 @@ A Streamlit-based web app that allows developers to search, scrape, and analyze 
 - Live streaming of research progress in the UI.
 - Export results to JSON.
 ## Screenshots
-*(Optional: Add screenshots of your app here)*
+![alt text](/img/image.png)
+![alt text](/img/image-1.png)
+![alt text](/img/image-2.png)
+![alt text](/img/image-3.png)
 ## Technologies Used
 - Python 3.11+
 - [Streamlit](https://streamlit.io/)
