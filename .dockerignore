@@ -1,0 +1,21 @@
+# Ignore venvs
+venv
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS / system files
+.DS_Store
+
+# Git
+.git
+.gitignore
+
+# Build artifacts
+*.egg-info
+dist
+build
